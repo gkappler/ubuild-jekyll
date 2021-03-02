@@ -5,9 +5,9 @@ col_1:
   slug: About
   content: Test
 col_2:
-  headline: ''
-  slug: ''
-  content: ''
+  headline: More about me
+  slug: More
+  content: 'Let''s '
 published: false
 
 ---
