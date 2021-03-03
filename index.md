@@ -45,7 +45,7 @@ page_sections:
   content: Ihr wollt miteinenander Spaß haben. <br>Leute kenenlernen? <br>Menschen
     treffen?
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2021/03/03/screenshot-28.png"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
