@@ -30,7 +30,7 @@ page_sections:
     und was ist Deutschtreff? <br><br>Das Ziel ist jeden bei seinem Kenntnisstand
     der deutschen Sprache abzuholen und weiter zu entwickeln."
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
